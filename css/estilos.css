@@ -1,0 +1,108 @@
+body{
+    background-color: black;
+}
+.barra {
+    background-color: black !important ;
+    font-size: large !important;
+    
+}
+ .letra >li >a{
+     font-family: 'Times New Roman', Times, serif !important;
+     color: white !important ;
+ }
+
+.row{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+.actores{
+    background-color: black;
+    color: white;
+}
+
+.titulo2{
+    text-align: center;
+    color: yellow;
+    font-size: 35px;
+    height: 60px;
+
+}
+
+
+.historia{
+    background-color: black;
+    color: white;
+}
+
+.titulo1{
+    text-align: center;
+    color: yellow;
+    font-size: 35px;
+    height: 60px;
+    
+}
+
+footer{
+    width: 100%;
+
+}
+
+.iconosredes{
+    text-align: center;
+    margin: 10px 10px;
+    background: black;
+}
+
+.iconos{
+    display: inline-flex;
+    margin: 10px 10px;
+    background: black;
+}
+
+.textofooter{
+    padding-top: 30px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background-color:black ;
+    height: 150px;
+    display:inline-block ;
+    vertical-align: auto;
+    
+}
+
+.textofooter > div{
+    vertical-align: auto ;
+}
+
+.paises{
+    background-color: black;
+    color: white;
+}
+
+.titulo3{
+    text-align: center;
+    color: yellow;
+    font-size: 35px;
+    height: 60px;
+    
+}
+
+.paises1{
+    width: 100%;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 50;
+    padding-top: 5px;
+    text-align: center;
+    background: black;
+
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+    }
